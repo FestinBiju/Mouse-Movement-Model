@@ -16,6 +16,7 @@ The code generates synthetic mouse movement data, trains a Linear Regression mod
 ## Installation
 
 You can install the required dependencies using pip:
+
 pip install numpy scikit-learn matplotlib
 
 
